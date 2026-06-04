@@ -3,8 +3,8 @@
 int main() {
 
     // Declaração das variáveis
-    int idade = 17;
-    float altura = 1.75;
+    int idade = 19;
+    float altura = 1.70;
     char inicial = 'L';
 
     // Exibição dos dados na tela
