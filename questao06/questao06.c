@@ -4,7 +4,7 @@ int main() {
 
     // Declaração das variáveis
     char nome[19];
-    char cidade[São José];
+    char cidade[50];
     int idade;
 
     // Entrada dos dados
